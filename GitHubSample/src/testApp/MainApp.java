@@ -7,6 +7,9 @@ public class MainApp {
 		System.out.println("2 version");
 		// 組員撰寫的程式碼
 		System.out.println("3 version 組員");
+		
+		// 改成UTF-8
+		System.out.println("yoooooooooooooooooo - from team member");
 	}
 
 }
